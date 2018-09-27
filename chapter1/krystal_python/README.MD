@@ -21,11 +21,11 @@ _Steps to get this code to work_
 
 In order to call a specific exercise, you must supply it as an argument.
 
-```python3 /Users/krystalflores/github/general/data_structures/main.py <<EXERCISE>> ```
+```python3 /Users/krystalflores/github/general/data_structures/main.py <<EXERCISE>> <<OUTPUT FILEPATH>> ```
 
 Example:
 
-```python3 /Users/krystalflores/github/general/data_structures/main.py 1```
+```python3 github/opendatastructures_solutions/chapter1/krystal_python/main.py 1 '/Users/krystalflores/github/opendatastructures_solutions/chapter1/big.txt'```
 
 
 
