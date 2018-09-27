@@ -4,7 +4,7 @@ import datetime
 
 exercise = sys.argv[1]
 input_filename = sys.argv[2]
-output_filename = ("/Users/krystalflores/github/opendatastructures_solutions/chapter1/krystal_python/exercise_" + exercise + ".txt")
+output_filename = ("/Users/krystalflores/github/opendatastructures_solutions/chapter1/krystal_python/results/exercise_" + exercise + ".txt")
 
 """ TO DO:
 Add logging instead of print?
