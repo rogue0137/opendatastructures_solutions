@@ -1,6 +1,6 @@
 # Opendatastructures Solutions
 
-Repository used for solutions to the exercises in http://opendatastructures.org
+This Repository is used by members of The Los Angeles Programming Bootcamps members (https://www.meetup.com/Los-Angeles-Programming-Bootcamps/) to work on some common software engineering problems. 
 
 # Contributing
 1. Fork this repo (Click on fork on top right corner)
