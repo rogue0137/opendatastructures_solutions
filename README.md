@@ -1,4 +1,4 @@
-# Opendatastructures Solutions
+# Los Angeles Programming Bootcamps
 
 This Repository is used by members of The Los Angeles Programming Bootcamps members (https://www.meetup.com/Los-Angeles-Programming-Bootcamps/) to work on some common software engineering problems. 
 
