@@ -1,4 +1,4 @@
-# opendatastructures_solutions
+# Opendatastructures Solutions
 
 Repository used for solutions to the exercises in http://opendatastructures.org
 
